@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'gemonic-indicator-model-docs'
-copyright = '2025, Salem Bajjali'
+project = 'Genomic Indicator Model Documentation'
+copyright = '2025, InformaticsGenomicMedicine'
 author = 'Salem Bajjali'
 release = '0.0.1'
 
@@ -17,12 +17,12 @@ release = '0.0.1'
 extensions = []
 
 templates_path = ['_templates']
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+exclude_patterns = []
 
 
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'alabaster'
+html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']

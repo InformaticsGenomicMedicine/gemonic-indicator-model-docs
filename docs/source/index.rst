@@ -1,10 +1,10 @@
-.. gemonic-indicator-model-docs documentation master file, created by
-   sphinx-quickstart on Wed Jul 30 15:27:55 2025.
+.. Genomic Indicator Model Documentation documentation master file, created by
+   sphinx-quickstart on Thu Jul 31 12:28:54 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to gemonic-indicator-model-docs's documentation!
-========================================================
+Welcome to Genomic Indicator Model Documentation's documentation!
+=================================================================
 
 .. toctree::
    :maxdepth: 2
