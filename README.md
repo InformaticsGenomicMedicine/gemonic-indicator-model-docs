@@ -1,2 +1,3 @@
-# project-docs
-Staging area for documentation deployment via Read the Docs.
+# Genomic Indicator Model Documentation
+
+This repository serves as a staging area for the documentation of the Genomic Indicator Model.  
