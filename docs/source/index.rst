@@ -3,18 +3,13 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Genomic Indicator Model Documentation's documentation!
+Genomic Interpretation and Knowledge (GenIK) Framework 
 =================================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :includehidden:
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   introduction
+   quickstart
