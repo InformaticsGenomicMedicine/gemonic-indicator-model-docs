@@ -1,6 +1,6 @@
 .. _GenomicKnowledgeBases:
 
-Domains & Major Classes
+Genomic Knowledge Bases
 !!!!!!!!!!!!!!!!!!!!!!!
 
 **Subclasses**
