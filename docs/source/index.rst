@@ -12,4 +12,6 @@ Genomic Interpretation and Knowledge (GenIK) Framework
    :includehidden:
 
    introduction
-   quickstart
+   QuickStart/index
+   schema
+   SchemaDomains/index
