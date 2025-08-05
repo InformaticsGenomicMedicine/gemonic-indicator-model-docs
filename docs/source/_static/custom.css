@@ -1,0 +1,11 @@
+/* Disable horizontal scroll for tables with class 'reece-wrap' */
+@media screen and (min-width: 767px) {
+  .wy-table-responsive table.reece-wrap td,
+  .wy-table-responsive table.reece-wrap th {
+    white-space: normal !important;
+  }
+
+  .wy-table-responsive table.reece-wrap {
+    width: 100% !important;
+  }
+}
