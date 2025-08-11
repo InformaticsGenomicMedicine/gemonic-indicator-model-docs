@@ -1,11 +1,19 @@
-/* Disable horizontal scroll for tables with class 'reece-wrap' */
+/* override table width restrictions */
 @media screen and (min-width: 767px) {
-  .wy-table-responsive table.reece-wrap td,
-  .wy-table-responsive table.reece-wrap th {
+  table.formatted-table th,
+  table.formatted-table td {
+    /* !important prevents the common CSS stylesheets from overriding
+         this as on RTD they are loaded after this stylesheet */
     white-space: normal !important;
+    hyphens: auto;             /* nicer wrapping for prose */
   }
 
-  .wy-table-responsive table.reece-wrap {
-    width: 100% !important;
+  table.formatted-table {
+    overflow: visible !important;
+  }
+
+  .wy-table-responsive table.formatted-table td,
+  .wy-table-responsive table.formatted-table th {
+    white-space: normal;
   }
 }
